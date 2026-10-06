@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132723902180",
+    "project_id": "domestic-pal",
+    "storage_bucket": "domestic-pal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132723902180:android:6cbab7285c056baf84cef1",
+        "android_client_info": {
+          "package_name": "com.example.domestic_pal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132723902180-2ictjqlplcpjib4kuo138o3e9e8ms5cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBluNP4tv1yIlQDq0XGP7toe5iKO8Hmxlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132723902180-2ictjqlplcpjib4kuo138o3e9e8ms5cu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
